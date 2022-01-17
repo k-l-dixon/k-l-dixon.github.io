@@ -66,11 +66,31 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "M.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Trident University International, Cypress, CA",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Heald College, Honolulu, HI",
+      "area": "Information Technology",
+      "studyType": "A.S.",
+      "startDate": "2010",
+      "endDate": "2012",
       "gpa": "",
       "courses": [
       ]
@@ -99,47 +119,102 @@
       "highlights": [
         ""
       ]
+    },
+    {
+      "company": "Network 2000",
+      "position": "Internship",
+      "website": "",
+      "startDate": "2012-07-01",
+      "endDate": "2012-10-01",
+      "summary": "Establish, diagnose, and troubleshoot network compuer systems and printers.",
+      "highlights": [
+        "Imaged network computers for local shcools thorughout Oahu",
+        "performed network administrative duties and computer/system maintenace for local schools"
+      ]
+    },
+    {
+      "company": "Heald College Honolulu",
+      "position": "Federeal Work Study",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2012-10-01",
+      "summary": "Worked closely with the Hawaii Literacy organization: Served as IT technician and subject matter expert.",
+      "highlights": [
+        "Provided network installation and administration within two reading center extensions of the organization.",
+        "Conducted research on the benefits and cost analysis for the upgrade and replacement of the organizations existing computer systems."
+      ]
+    },
+    {
+      "company": "Chillis",
+      "position": "Line Cook/Dish Washer",
+      "website": "",
+      "startDate": "2010-02-01",
+      "endDate": "2010-10-01",
+      "summary": "Food prep, Flat top cook, Fryer, Dish Washer",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Taco Bell",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2010-01-01",
+      "endDate": "2010-02-01",
+      "summary": "Food prep, Dish Washer",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Urban Flava",
+      "position": "Supervisor",
+      "website": "",
+      "startDate": "2008-06-01",
+      "endDate": "2012-09-01",
+      "summary": "Supervised and train retail sales team, cashier, sales associate, inventory/recieve merchandise",
+      "highlights": [
+        ""
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Dixon's Taekwondo",
+      "website": "http://www.dixonstkd.com/",
+      "position": "Instructor",
+      "startDate": "2001-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Instruct class workouts and self-defense with students ranging from young children to adults, coach/mentor aspects of discipline and respect",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "2nd Degree Black Belt",
+        "Competed in Local and National Tournaments"
       ]
     },
     {
-      "organization": "",
+      "organization": "Police Activities League",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Assistant Basketball Coach",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
