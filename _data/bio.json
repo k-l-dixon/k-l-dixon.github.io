@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kolwin Dixon",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://k-l-dixon.github.io/images/Dixon.jpeg",
+    "email": "kolwin@hawaii.edu",
+    "phone": "",
+    "website": "https://k-l-dixon.github.io",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "k-l-dixon",
+        "url": "http://github.com/k-l-dixon"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Kolwin Dixon",
+        "url": "http://linkedin.com/in/kolwindixon"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Internet of Things",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Cyber Security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Fitness",
       "keywords": [
       ]
     }
@@ -62,11 +50,9 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R"
       ]
     },
     {
@@ -74,19 +60,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "M.S.",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,27 +78,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "US Army",
+      "position": "Cadet",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2013-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Served as a supervisor, mentor, planner, electronic repairer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supervise day-to-day operations",
+        "Planned and executed training exercises",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Old Navy",
+      "position": "Logistics",
+      "website": "",
+      "startDate": "2012-11-01",
+      "endDate": "2013-02-01",
+      "summary": "Responsible for the inventory and display of merchandise over night.  Performed cashier and retail sales associate responsibilities as needed.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
