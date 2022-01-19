@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Ambition of Software Engineering
+title: My Ambition for Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-19
 labels:
