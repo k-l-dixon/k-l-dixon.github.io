@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/Matrix-Mulitplication.png
+image: images/MatMul.png
 title: MatMul
 permalink: projects
 # All dates must be YYYY-MM-DD format!
