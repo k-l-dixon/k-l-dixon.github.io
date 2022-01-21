@@ -25,4 +25,4 @@ For me, this endeavor reinforced the importance of preparation and teamwork.  Pr
 
 ## Description
  
-<img class="ui medium right floated rounded image" src="../images/MRT-Skills-Description.png">
+<img class="ui medium left floated rounded image" src="../images/MRT-Skills-Description.png">
