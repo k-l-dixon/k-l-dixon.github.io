@@ -4,7 +4,6 @@ type: project
 published: true
 image: images/MatMul.png
 title: Matrix Mulitplication
-permalink: projects
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-04
 labels:
