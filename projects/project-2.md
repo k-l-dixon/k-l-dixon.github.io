@@ -1,26 +1,28 @@
 ---
 layout: project
 type: project
-published: false
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+published: true
+image: images/MRT-Icons.png
+title: Resilience Training
+permalink: projects/
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-10-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Resilience
+  - Training
+summary: 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/MRT-logo.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Resilience, in the realm of psychology, is interpreted as, “the process of adapting well in the face of adversity, trauma, tragedy, threats, or significant sources of stress—such as family and relationship problems, serious health problems, or workplace and financial stressors.” (Building Resilience).   
+
+I had been responsible for identifying, coordinating, and conducting resilience training for an organization of over 100 personnel.  This took significant time working with other team members in terms of planning, preparing, executing, and assessing the training.  My role primarily involved managing the flow of information, timelines, coordination of equipment and preparing a block of instruction.  
+
+For me, this endeavor reinforced the importance of preparation and teamwork.  Products needed to be prepared and rehearsals needed to be done well beforehand in order to be successful here.  Inherently, communication and presentation skills were instrumental for the training.  Feedback received after the training gave me notes that I could leverage for future training events.
+
+##Description
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<img class="ui medium right floated rounded image" src="../images/MRT-Skills-Description.png">
