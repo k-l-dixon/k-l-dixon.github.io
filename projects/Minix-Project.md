@@ -20,4 +20,4 @@ One of the things I felt that I have learned at the end of the project is how co
 
 ## Output Example
 
- <img class="ui centered medium image"<img class="ui medium right floated rounded image" src="../images/Minix.png">
+ <img class="ui centered medium image" src="../images/Minix.png">
