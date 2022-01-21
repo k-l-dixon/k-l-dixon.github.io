@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/Minix-Logo.png
 title: Minix
-permalink: projects/Minix-Project.md
+permalink: projects/Minix-Project
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
 labels:
