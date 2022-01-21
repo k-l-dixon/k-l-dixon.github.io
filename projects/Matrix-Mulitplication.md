@@ -3,8 +3,8 @@ layout: project
 type: project
 published: true
 image: images/Matrix-Mulitplication.png
-title: Micromouse
-permalink: projects/micromouse
+title: MatMul
+permalink: projects
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-04
 labels:
