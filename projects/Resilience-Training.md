@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/MRT-Icons.png
 title: Resilience Training
-permalink: projects
+permalink: projects/Reseilience-Training.md
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-01
 labels:
