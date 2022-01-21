@@ -18,6 +18,6 @@ During a course in the Theory of Operating Systems, my project involved successf
 
 One of the things I felt that I have learned at the end of the project is how comfortable I had been working in a GUI environment vs a command line.  The project required me to constantly edit and recompile the source code of the Minix OS.  This allowed me to  gain more of an understanding working with the C programming language as well through hours of sifting through functions and header files of the source code.  Since my work was done through a virtual machine, I had a stern reminder that troubleshooting involves not only the programming code but the environment as well (i.e. computer memory, compatibility, etc.)
 
-##Output Example
+## Output Example
 
-<img class="ui medium right floated rounded image" src="../images/Minix.png">
+ <img class="ui centered medium image"<img class="ui medium right floated rounded image" src="../images/Minix.png">
