@@ -23,6 +23,6 @@ I had been responsible for identifying, coordinating, and conducting resilience 
 
 For me, this endeavor reinforced the importance of preparation and teamwork.  Products needed to be prepared and rehearsals needed to be done well beforehand in order to be successful here.  Inherently, communication and presentation skills were instrumental for the training.  Feedback received after the training gave me notes that I could leverage for future training events.
 
-##Description
+## Description
  
 <img class="ui medium right floated rounded image" src="../images/MRT-Skills-Description.png">
