@@ -71,7 +71,7 @@
       "studyType": "M.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.32",
       "courses": [
       ]
     },
@@ -81,7 +81,7 @@
       "studyType": "B.S.",
       "startDate": "2015",
       "endDate": "2019",
-      "gpa": "",
+      "gpa": "3.6",
       "courses": [
       ]
     },
@@ -91,7 +91,7 @@
       "studyType": "A.S.",
       "startDate": "2010",
       "endDate": "2012",
-      "gpa": "",
+      "gpa": "3.01",
       "courses": [
       ]
     }
@@ -105,6 +105,7 @@
       "endDate": "Present",
       "summary": "Served as a supervisor, mentor, planner, electronic repairer",
       "highlights": [
+        "Ordnance Corp Affiliation",
         "Two Duty Stations with One Deployment",
         "Designated Master Resilence Trainer",
         "Distinguished Honor Graduate from Advance Inidividual Training (AIT)",
@@ -213,10 +214,10 @@
       "summary": "Demonstrated tactical knowledge of tasks through hands-on demonstration along with general Army knowledge through question and answer form in a forum of the most senor leaders of the organization. "
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Military Outstanding Volunteer Service Medal",
+      "date": "2018-03-09",
+      "awarder": "US Army -- Bravo Company, 209th Aviation Support Battalion",
+      "summary": "Volunteered countless hours as a Taekwondo Instructor.  Trained, coached, and mentored students from the community.  This incorporated physical fitness training, competition preparation, community demonstrations, and fundraising/community volunteer events.  Ages varied from as young as 5 years of age to adults.  "
     }
   ],
   "references": [
