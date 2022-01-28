@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Smart Questions vs Not-So-Smart Questions
 date: 2022-01-27
 labels:
