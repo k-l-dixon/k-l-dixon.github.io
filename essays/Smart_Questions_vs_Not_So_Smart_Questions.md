@@ -1,11 +1,11 @@
 ---
-layout:essay
-type:essay
+layout: essay
+type: essay
 published: false
 title: Smart Questions vs Not-So-Smart Questions
 date: 2022-01-27
 labels:
-  -Questions
+  - Questions
 ---
 
 In order for any of us to gain knowledge or insight, we need to be proficient at asking questions.  Asking questions allows us to gain information and awareness about a particular area of interest.  How to Ask Question the Smart Way by Eric Raymond (http://www.catb.org/esr/faqs/smart-questions.html) annotates how we seek good questions from others to help ourselves develop understanding and see different perspectives in an area of interest.  This essay explores this dynamic process as we often quickly receive the desired information we seek while other times we receive undesired information in a lengthy amount of time.  This brings up the importance of understanding asking “smart” questions vs “not-so-smart” questions.
