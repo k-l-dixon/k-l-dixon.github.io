@@ -27,7 +27,7 @@ Initially unfamiliar with JS, I look forward to learning the skills of effective
 
 Everyone has their personal preference of learning styles.  Growing up playing sports and video games I've learned that "hands-on" practical repetition is the most effective learning technique for me.  A learning technique which I feel aligns with the Athletic Software Learning approach.  As this learning approach emphasizes a time-constrained, stress induced environment (two aspects I'm not necessarily a fan of), I feel that this learning approach will be beneficial for me.  I believe this learning style will require me to deliberately prepare and continually rehearse various skills ("hands-on" repetition) in order to be successful.  Inherently adding the benefit of enforcing effective habits to combat the infamous procrastination mentality. 
 
-## Conclusion
+## Takeaway
 
 JavaScript is ubiquitous, hence my motivation to learn the language.  To learn JS effectively, I intend to leverage the Athletic Software Engineering approach as much as possible.  With this motivation and learning style in mind, a goal I have to look forward to accomplishing is becoming competent and proficient in JS programming overall.  A second goal is to explore the realm of mobile application development with JS in this technology driven world.
 
