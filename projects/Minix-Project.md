@@ -6,7 +6,7 @@ image: images/minix-3.png
 title: Minix
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-01
+date: 2020-03-07
 labels:
   - Minix OS
   - C
@@ -20,4 +20,4 @@ One of the things I felt that I have learned at the end of the project is how co
 
 ## Output Example
 
- <img class="ui centered medium image" src="../images/Minix.png">
+ <img class="ui centered medium image" src="../images/minix-output.png">
