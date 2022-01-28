@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/Minix-Logo.png
+image: images/minix-3.png
 title: Minix
 permalink: 
 # All dates must be YYYY-MM-DD format!
