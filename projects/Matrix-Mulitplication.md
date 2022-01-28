@@ -20,7 +20,7 @@ There are several different matrix multiplication algorithms.  This was a team e
 
 I was primarily involved in combined efforts debugging and testing of the code.  Once complete, results were analyzed for comparison in time and complexity.  Afterwards, we were able to craft a report to present.       
 
-below is an exerpt of some of the code we were able to compose:
+below is an excerpt of some of the code we were able to compose:
 
 ```c
   for (int i = 0; i < n/sqrtp; i++)
