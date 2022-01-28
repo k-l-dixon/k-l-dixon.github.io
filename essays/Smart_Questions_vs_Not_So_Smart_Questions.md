@@ -10,7 +10,7 @@ labels:
 
 # Why Smart Questions
 
-<img class="ui medium right floated rounded image" src="../images/questions.jpeg">
+<img class="ui medium right floated rounded image" src="../images/questions.png">
 
 In order for any of us to gain knowledge or insight, we need to be proficient at asking questions.  Asking questions allows us to gain information and awareness about a particular area of interest.  [How to Ask Question the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Raymond annotates how we seek good questions from others to help ourselves develop understanding and see different perspectives in an area of interest.  This essay explores this dynamic process as we often quickly receive the desired information we seek while other times we receive undesired information in a lengthy amount of time.  This brings up the importance of understanding asking “smart” questions vs “not-so-smart” questions.
 
