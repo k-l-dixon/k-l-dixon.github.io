@@ -1,0 +1,14 @@
+---
+layout: essay
+type: essay
+published: false
+title: Time vs Scale vs Tradeoffs in Project Management
+# All dates must be YYYY-MM-DD format!
+date: 2022-02-06
+labels:
+  - Software Engineering
+  - Time
+  - Scale
+  - Tradeoffs
+  - Project Management
+---
