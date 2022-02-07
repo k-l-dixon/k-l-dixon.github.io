@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: false
-title: Time vs Scale vs Tradeoffs in Project Management
+title: Lasting Software
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-06
 labels:
@@ -14,4 +14,4 @@ labels:
 
 ## Overview
 
-Software engineering aims to build, design, develop, and maintain software.  As this is a team driven ordeal,
+In a nutshell, software engineering is a team driven practice that aims to build, design, develop, and maintain software.  As straight-forward as this concept is, this may easily become a challenging practice working within larger organizations.  Especially as codes becomes larger and more complex to manage and maintain.  During a Tech Talk, Google software engineer Titus Winters was able to provide candid insight on constructing and maintaining software based on his experience.
