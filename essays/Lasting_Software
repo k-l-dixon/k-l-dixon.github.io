@@ -10,8 +10,14 @@ labels:
   - Time
   - Scale
   - Tradeoffs
+  -Reflection
 ---
 
 ## Overview
 
-In a nutshell, software engineering is a team driven practice that aims to build, design, develop, and maintain software.  As straight-forward as this concept is, this may easily become a challenging practice working within larger organizations.  Especially as codes becomes larger and more complex to manage and maintain.  During a Tech Talk, Google software engineer Titus Winters was able to provide candid insight on constructing and maintaining software based on his experience.
+In a nutshell, software engineering is a team driven practice that aims to build, design, develop, and maintain software.  Having an effective process in place to maintain software over a period of time is a goal for any software engineer to strive for.  As straight-forward as this concept is, this may easily become a challenging practice working within larger organizations.  Especially as codes themselves becomes larger and more complex to manage and maintain.  During a Tech Talk, Google software engineer Titus Winters was able to provide candid insight on constructing and maintaining software based on his experiences.  He emphasized the importance in the consideration of three principles: Time, Scale, and Tradeoffs.
+
+## Time
+
+When creating code, the first question that needs to answered is "What's the expected lifespan of the code?"  
+
