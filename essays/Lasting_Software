@@ -31,6 +31,12 @@ The next principle to consider is scalability.  Software engineer teams need to 
 
 The third principle, tradeoffs, spoke towards decision making.  Throughout the project, decisions will need to be made about various ideas and approaches with various courses of actions.  Teams faced with these decisions need to be mindful of making decisions based on evidence.  These evidence-based decisions will keep teams "grounded" working towards realistic expectations.  As software engineers, teams need to focus decisions cognizant that the decision will support sustainability of the project.  Titus cautioned that evidence will change over time, so decisions will often need to be re-evaluated.
 
-*It's programming if "clever" is a compliment
-It's software engineering if "clever" is an accusation*
+## Practices Moving Forward
+
+I agree and feel that I can relate to these concepts in terms of planning physical fitness training.  Depending on the goal the training will need to be planned in a way that supports a sustainable process, lifestyle change,  or habit to be successful.  For example, training for an event, I would need to first understand and take into account the length of *time* I have to consider when creating my plans.  I also take into account the workout equipment, gym availability, meals or other resources I will need (*scale*).  Decisions I make on tailoring detailed workouts falls in line with *tradeoffs* i.e. will the workout sustain my fitness.
+
+For me, this Tech Talk had reinforced the importance of *understanding* a problem or situation.  Understanding in the sense that we need to know what we are trying to accomplish, how long we have to accomplish it, what can we use, and an end-state that the entire team aims for cohesively.  For future software development project, I intend to always set time aside to deliberately plan, assess, and re-assess projects/decisions with these concepts in mind.
+
+>It's programming if "clever" is a compliment
+>It's software engineering if "clever" is an accusation
 
