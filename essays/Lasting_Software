@@ -10,14 +10,20 @@ labels:
   - Time
   - Scale
   - Tradeoffs
-  -Reflection
+  - Reflection
 ---
 
 ## Overview
 
-In a nutshell, software engineering is a team driven practice that aims to build, design, develop, and maintain software.  Having an effective process in place to maintain software over a period of time is a goal for any software engineer to strive for.  As straight-forward as this concept is, this may easily become a challenging practice working within larger organizations.  Especially as codes themselves becomes larger and more complex to manage and maintain.  During a Tech Talk, Google software engineer Titus Winters was able to provide candid insight on constructing and maintaining software based on his experiences.  He emphasized the importance in the consideration of three principles: Time, Scale, and Tradeoffs.
+In a nutshell, software engineering is a team driven practice that aims to build, design, develop, and maintain software.  Having an effective process in place to maintain software over a period of time is a goal for any software engineer to strive for.  As straight-forward as this concept is, this may easily become a challenging practice working within larger organizations.  Especially as codes themselves becomes larger and more complex to manage and maintain.  During a Tech Talk, Google software engineer Titus Winters was able to provide candid insight on constructing and maintaining software based on his experiences.  In general, problems begin to arise when software begins to exceed timelines, exceed budgets, or when the software produces reduced levels of quality.  Hence, Titus emphasized the importance in the consideration of three principles: Time, Scale, and Tradeoffs.
 
 ## Time
 
-When creating code, the first question that needs to answered is "What's the expected lifespan of the code?"  
+According to Titus, one of the first questions that should to be answered when starting software projects is "What's the expected lifespan of the code?"  Will the software be needed for only a few days, months, or perhaps decades?  Titus explains, that shorter software projects (ones that require only a few hours or days) falls in the realm of programming projects in which little effort is required in terms of maintenance once the project is complete.  Longer projects reside within the realm "software engineering" in which there needs to be more of a deliberate plan to design, develop, and maintain the software after its been completed.  Longer lifespans are inherently difficult to plan for.
+
+My interpretation is that understanding the projected lifespan of a software project can serve as the ground work in developing detailed and structured plans.  These plans should emphasize requirements in maintenance or upgrade plans, amongst other things.  This concept, or "the plan of the plan", helps us set the expectation of work management from the start and also assists teams in meeting timelines throughout the project lifespan.  Our goal to develop sustainable and resilient software.  This may look different or have different criteria in considering varying lengths of project lifespan.
+
+## Scale
+
+
 
