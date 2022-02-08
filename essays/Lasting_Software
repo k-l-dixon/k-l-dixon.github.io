@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Lasting Software
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-06
