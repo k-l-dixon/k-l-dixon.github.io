@@ -21,9 +21,16 @@ In a nutshell, software engineering is a team driven practice that aims to build
 
 According to Titus, one of the first questions that should to be answered when starting software projects is "What's the expected lifespan of the code?"  Will the software be needed for only a few days, months, or perhaps decades?  Titus explains, that shorter software projects (ones that require only a few hours or days) falls in the realm of programming projects in which little effort is required in terms of maintenance once the project is complete.  Longer projects reside within the realm "software engineering" in which there needs to be more of a deliberate plan to design, develop, and maintain the software after its been completed.  Longer lifespans are inherently difficult to plan for.
 
-My interpretation is that understanding the projected lifespan of a software project can serve as the ground work in developing detailed and structured plans.  These plans should emphasize requirements in maintenance or upgrade plans, amongst other things.  This concept, or "the plan of the plan", helps us set the expectation of work management from the start and also assists teams in meeting timelines throughout the project lifespan.  Our goal to develop sustainable and resilient software.  This may look different or have different criteria in considering varying lengths of project lifespan.
+My interpretation is that understanding the projected lifespan of a software project can serve as the ground work in developing detailed and structured plans.  These plans should emphasize requirements in maintenance or upgrade plans, amongst other things.  This concept, or "the plan of the plan", helps us set the expectation of work management from the start and also assists teams in meeting timelines throughout the project lifespan.  Our goal to develop sustainable and resilient software.  This may look different or have different criteria/resource requirements in considering varying lengths of project lifespan.
 
 ## Scale
 
+The next principle to consider is scalability.  Software engineer teams need to be mindful of cost and scalability in terms of hardware, software, as well as human resources required for maintenance.  Will our process exhaust all of the resources required for sustainability or will we be able to repeat our process as many times as necessary?  Titus noted that, "In a successful organization, everything must be done repeatedly consuming sub-linear resources - especially sub-linear human effort and communication."
 
+## Tradeoffs
+
+The third principle, tradeoffs, spoke towards decision making.  Throughout the project, decisions will need to be made about various ideas and approaches with various courses of actions.  Teams faced with these decisions need to be mindful of making decisions based on evidence.  These evidence-based decisions will keep teams "grounded" working towards realistic expectations.  As software engineers, teams need to focus decisions cognizant that the decision will support sustainability of the project.  Titus cautioned that evidence will change over time, so decisions will often need to be re-evaluated.
+
+*It's programming if "clever" is a compliment
+It's software engineering if "clever" is an accusation*
 
