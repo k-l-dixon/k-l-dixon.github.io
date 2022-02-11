@@ -26,7 +26,7 @@ Coding standards are well defined rules with coding styles that each programmer 
 
 ## ESLINT with Intellij 
 
-<img class="ui middle aligned small image" src="../images/ESLINT.png"> 
+<img class="ui centered small image" src="../images/ESLINT.png"> 
 
 
 
