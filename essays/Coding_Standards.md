@@ -14,9 +14,9 @@ labels:
 ## Coding Standards
 
 >What are coding standards? 
-
+ <img class="ui medium right circular floated image" src="../images/Coding-Standards.jpeg"> 
 >What benefits do they provide?
-  <img class="ui medium right circular floated image" src="../images/Coding-Standards.jpeg"> 
+ 
   
 
 Software engineering is a team driven process.  When developing code, other programmers will inevitably review the code for various reasons such as debugging or establishing an understanding of the code itself.  In large organizations, teams may become divided into smaller sub-teams working on multiple areas of the same code.  Working with lengthy and complex pieces of code, a concern would be merging these sections together in the end product.  A typical problem that arises are situations where functions or variables are defined and used in one area, but conflicts with how they are used in another area.  Another problem falls along the lines in debugging.  Situations where each code section is composed in an entirely different manner from one another.  Challenges arise attempting to read, understand, and troubleshoot these areas if needed.  This could become time consuming with numerous teams working under larger code projects, not to mention resources that need to be considered.  To mitigate this we can leverage the use of coding standards.
@@ -25,7 +25,8 @@ Coding standards are well defined rules with coding styles that each programmer 
 
 ## ESLINT with Intellij 
 <div class="ui rounded images">
-<img class="ui center circular floated image" src="../images/ESLINT.png"> <img class="ui left circular floated image" src="../images/greencheckmark.jpeg"> 
+<img class="ui medium spaced circular floated image" src="../images/ESLINT.png"> 
+<img class="ui medium spaced left circular floated image" src="../images/greencheckmark.jpeg"> 
   </div>
 
 My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
