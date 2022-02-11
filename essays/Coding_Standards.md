@@ -14,7 +14,9 @@ labels:
 ## Coding Standards
 
 >What are coding standards? 
->What benefits do they provide?  
+
+>What benefits do they provide?
+  
 <img class="ui left circular floated image" src="../images/Coding-Standards.jpeg"> 
 
 Software engineering is a team driven process.  When developing code, other programmers will inevitably review the code for various reasons such as debugging or establishing an understanding of the code itself.  In large organizations, teams may become divided into smaller sub-teams working on multiple areas of the same code.  Working with lengthy and complex pieces of code, a concern would be merging these sections together in the end product.  A typical problem that arises are situations where functions or variables are defined and used in one area, but conflicts with how they are used in another area.  Another problem falls along the lines in debugging.  Situations where each code section is composed in an entirely different manner from one another.  Challenges arise attempting to read, understand, and troubleshoot these areas if needed.  This could become time consuming with numerous teams working under larger code projects, not to mention resources that need to be considered.  To mitigate this we can leverage the use of coding standards.
