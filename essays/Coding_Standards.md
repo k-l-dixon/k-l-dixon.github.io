@@ -27,10 +27,10 @@ Coding standards are well defined rules with coding styles that each programmer 
 ## ESLINT with Intellij 
 
 <img class="ui middle aligned small image" src="../images/ESLINT.png"> 
-<img class="ui image" src="../images/greencheckmark.jpeg"> 
 
 
-My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
+
+My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" <img class="ui mini spaced image" src="../images/greencheckmark.jpeg"> was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
 
 One aspect I would like to see different with ESLint is differentiating errors of preferences and execution errors.  Under time, I immediately notice my attention is drawn to an error and I'd become fixated to changing the error to the infamous "green check mark".  On occasions I feel time is wasted as my train of thought comes to a halt to check red marks only to see it was a word considered "misspelled" by ESLint but is appropriately spelled for the context I need.  
 
