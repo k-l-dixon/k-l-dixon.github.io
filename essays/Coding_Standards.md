@@ -13,11 +13,11 @@ labels:
 
 ## Coding Standards
 
- <img class="ui centered large spaced right circular image" src="../images/Coding-Standards.jpeg"> 
+ <img class="ui centered large spaced circular image" src="../images/Coding-Standards.jpeg"> 
 
->What are coding standards? 
+>*What are coding standards?*
 
->What benefits do they provide?
+>*What benefits do they provide?*
  
   
 
