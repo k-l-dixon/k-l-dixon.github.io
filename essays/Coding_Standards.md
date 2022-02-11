@@ -25,10 +25,9 @@ Software engineering is a team driven process.  When developing code, other prog
 Coding standards are well defined rules with coding styles that each programmer should follow to maintain uniformity amongst the organization.  Benefits in using coding standards include: improving code readability, maintaining consistency, and maintains cost efficiency.  Code readability is a significant factor to consider as every programmer may offer vastly different programming styles.  Consistency in code promotes maintainability and allows the corrections of deficiencies earlier in the project, saving costs.  Some programmers feel that coding standards is an unnecessary limitation considering freedom and creativity in coding practices.  Others agree that using coding standards is a must.  There are a number of coding style tools such as Editorconfig, StyleLint, or ESLint.  I have recently been introduced to using ESLINT with Intellij. 
 
 ## ESLINT with Intellij 
-<div class="ui middle aligned small rounded images">
-<img class="ui image" src="../images/ESLINT.png"> 
+
+<img class="ui middle aligned small image" src="../images/ESLINT.png"> 
 <img class="ui image" src="../images/greencheckmark.jpeg"> 
-  </div>
 
 
 My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
