@@ -13,7 +13,7 @@ labels:
 
 ## Coding Standards
 
- <img class="ui medium spaced right circular image" src="../images/Coding-Standards.jpeg"> 
+ <img class="ui large spaced right circular image" src="../images/Coding-Standards.jpeg"> 
 
 >What are coding standards? 
 
