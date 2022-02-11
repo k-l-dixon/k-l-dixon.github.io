@@ -13,8 +13,9 @@ labels:
 
 ## Coding Standards
 
->What are coding standards? 
  <img class="ui medium spaced right circular image" src="../images/Coding-Standards.jpeg"> 
+
+>What are coding standards? 
 
 >What benefits do they provide?
  
