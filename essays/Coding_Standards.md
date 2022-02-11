@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Do Or Do Not: Implementing Organizational Coding Standard
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-09
