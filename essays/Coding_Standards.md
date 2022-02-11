@@ -15,6 +15,7 @@ labels:
 
 >What are coding standards? 
  <img class="ui medium right circular floated image" src="../images/Coding-Standards.jpeg"> 
+
 >What benefits do they provide?
  
   
@@ -26,7 +27,7 @@ Coding standards are well defined rules with coding styles that each programmer 
 ## ESLINT with Intellij 
 <div class="ui rounded images">
 <img class="ui medium spaced circular floated image" src="../images/ESLINT.png"> 
-<img class="ui medium spaced left circular floated image" src="../images/greencheckmark.jpeg"> 
+<img class="ui medium spaced right circular floated image" src="../images/greencheckmark.jpeg"> 
   </div>
 
 My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
