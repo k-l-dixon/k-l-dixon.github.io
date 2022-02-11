@@ -16,15 +16,17 @@ labels:
 >What are coding standards? 
 
 >What benefits do they provide?
+  <img class="ui right circular floated image" src="../images/Coding-Standards.jpeg"> 
   
-<img class="ui left circular floated image" src="../images/Coding-Standards.jpeg"> 
 
 Software engineering is a team driven process.  When developing code, other programmers will inevitably review the code for various reasons such as debugging or establishing an understanding of the code itself.  In large organizations, teams may become divided into smaller sub-teams working on multiple areas of the same code.  Working with lengthy and complex pieces of code, a concern would be merging these sections together in the end product.  A typical problem that arises are situations where functions or variables are defined and used in one area, but conflicts with how they are used in another area.  Another problem falls along the lines in debugging.  Situations where each code section is composed in an entirely different manner from one another.  Challenges arise attempting to read, understand, and troubleshoot these areas if needed.  This could become time consuming with numerous teams working under larger code projects, not to mention resources that need to be considered.  To mitigate this we can leverage the use of coding standards.
 
 Coding standards are well defined rules with coding styles that each programmer should follow to maintain uniformity amongst the organization.  Benefits in using coding standards include: improving code readability, maintaining consistency, and maintains cost efficiency.  Code readability is a significant factor to consider as every programmer may offer vastly different programming styles.  Consistency in code promotes maintainability and allows the corrections of deficiencies earlier in the project, saving costs.  Some programmers feel that coding standards is an unnecessary limitation considering freedom and creativity in coding practices.  Others agree that using coding standards is a must.  There are a number of coding style tools such as Editorconfig, StyleLint, or ESLint.  I have recently been introduced to using ESLINT with Intellij. 
 
 ## ESLINT with Intellij 
+<div class="ui rounded images">
 <img class="ui center circular floated image" src="../images/ESLINT.png"> <img class="ui left circular floated image" src="../images/greencheckmark.jpeg"> 
+  </div>
 
 My initial impression using ESLint with Intellij and it's very picky and selective "green check mark" was a positive experience.  I feel it is a useful tool that has, and would most likely continue to, help me develop preferable habits with readability of my code.  Feedback patterns I immediately noticed were typical spacing, indentations, or small syntax errors.  In the short time since I have began working with ESLint with Intellij, I already notice and correct errors quicker or that I type my code while keeping in mind the errors I typically see to avoid seeing them at all.
 
