@@ -16,3 +16,20 @@ Software design patterns are considered general, reusable solutions to commonly 
 
 ### Elements of Design Patterns
 
+Using design patterns we are able to communicate, identify, implement, and remember *general* solutions to common problems.  To accomplish this, there are four essential elements of design patterns:
+>1. The Pattern Name
+>> This name is typically a handle used that effectively describes a design problem.  This name should be descrptive in the sense to establish a shared understanding as the goal is to increase a catalog of patterns for the community.
+>2. The Problem
+>> The explanation and the context of the problem.  Be aware that this description sometimes describes **Symptomatic** problems as opposed to **Systematic** problems.
+>3. The Solution
+>> Again, **NOT** a concrete design or implementation.  This is an abstract general solution to the problem.
+>4. Consequences
+>> The results and trade-offs for applying the pattern.  Typically used for evaluating alternatives and for cost/benefits analysis.
+
+### Categories of Design Patterns
+
+Three fundamental groups of design patterns are behavioral, creational, and structural.
+
+>Behavioral - describes the communication between objects of various classes along with the responsibilities and tasks between the objects.  
+>Creational - emphasizes the way objects are created such that clients are decoupled from object initialization.   This leveages the creation of objects at runtime as opposed to compile time.
+>Structural - focuses on how to assemble objects and classes into larger flexible structures.  
