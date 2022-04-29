@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: The Power of Design Patterns
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-27
@@ -31,5 +31,26 @@ Using design patterns we are able to communicate, identify, implement, and remem
 Three fundamental groups of design patterns are behavioral, creational, and structural.
 
 >Behavioral - describes the communication between objects of various classes along with the responsibilities and tasks between the objects.  
->Creational - emphasizes the way objects are created such that clients are decoupled from object initialization.   This leveages the creation of objects at runtime as opposed to compile time.
->Structural - focuses on how to assemble objects and classes into larger flexible structures.  
+>> Chain of Responisbility Pattern
+
+>> Command Pattern
+
+>> Iterator Pattern
+
+>Creational - emphasizes the way objects are created such that clients are decoupled from object initialization.   This leveages the creation of objects at runtime as opposed to compile time. Examples include: 
+>> Singleton Pattern
+
+>> Prototype Pattern
+
+>Structural - focuses on how to assemble objects and classes into larger flexible structures.  Examples include: 
+>> Adapter Pattern
+
+>> Bridge Pattern
+
+>> Composite Pattern
+
+### Design Patterns Used in Practice
+
+In practice, I have experience with using the Singleton Design Pattern.  This design pattern involves using a single class responsible for creating an object and allowing direct access to that object without need to instantiate the object of the class.  Working with BowFolios, we used a class defined as   "ProfileCollection" to create and export the instances of "profiles" to other entities.    
+
+
