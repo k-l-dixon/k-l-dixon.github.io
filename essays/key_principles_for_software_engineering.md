@@ -9,9 +9,8 @@ labels:
   - Software Engineering
 ---
 
-# Key Fundamental Principles for Software Engineering
 
-This software engineering course had been an interesting and fast paced course.  Quite a few topics and concepts were covered, collaborative works and exercises, along with several reflections on class material.  Being new to the area, I was able to learn a great deal throughout the course from becoming familiar with using JavaScript to utilizing issue-driven project management practices.  Out of everything covered in the course, two key takeaways I have from the course are coding standards and development environments.
+This software engineering course had been an interesting and fast paced course.  Quite a few topics and concepts were covered, several collaborative exercises, along with a few reflections on class material.  Being new to the area, I was able to learn a great deal throughout the course from becoming familiar with using JavaScript, HTML, and CSS to utilizing issue-driven project management practices.  Out of everything covered in the course, two key takeaways I have from the course are coding standards and development environments.
 
 ### Coding Standards
 
