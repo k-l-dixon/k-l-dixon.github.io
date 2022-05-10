@@ -15,7 +15,7 @@ This software engineering course had been an interesting and fast paced course. 
 
 ### Coding Standards
 
-<img class="ui large image" src="../images/cs.png">
+<img class="ui middle aligned big image" src="../images/cs.png">
 
 Standards are used in a variety of areas within personal and professional capacities.  Standards are established norms of common guidelines, conditions, or characteristics.  Using coding standards in this course I could see the effectiveness in managing group development projects, reviewing code, and ensuring all members are able to gain a shared understanding in developing code.  From the number of spaces between lines to how to label specified variables or standardized methods, the goal is improving productivity by establishing a sense of uniformity for ease of interpretation and possible debugging.  Some individuals may view enforcement of coding standards a nuisance and a waste of time.  Having been a part of teams that had not leveraged coding standards, I witnessed the variety of situations that led to confusion, uncertainty, and wasted time.  Even some of my own coding projects turned messy and incoherent at times.  The use and enforcement of coding standards is something I intend to continue to build on.
 
