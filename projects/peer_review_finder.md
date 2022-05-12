@@ -19,4 +19,13 @@ This peer review finder is a web application that offers the opportunity for res
 
 For this project, I was able to make a contribution on the front end portion of the design.  This entails the intial landing page the users see both before and after logging into their user account profile.  I focused on updating several ui JSX components and the CSS file to update the navbar, background image, and layout of these landing pages.
 
-Overall, it was an eye opening experience for me.  With no experience in web application, I definitely had many takeaways from this project experience.  This includes a familiarity in frontend and backend designs in general.  Understanding how to appropriately apply MongoDB was a challenge for me.  Additionally, using github collaboration features was new to me.  I definitely saw the applicability in managing group work using the issue-driven management teachniques and could see the concept being applied in variety of group projects.        
+Overall, it was an eye opening experience for me.  With no experience in web application, I definitely had many takeaways from this project experience.  This includes a familiarity in frontend and backend designs in general.  Understanding how to appropriately apply MongoDB was a challenge for me.  Additionally, using github collaboration features was new to me.  I definitely saw the applicability in managing group work using the issue-driven management teachniques and could see the concept being applied in variety of group projects.   
+
+The link to the project io page is below:
+[Peer Review Finder io](https://peer-review-finder.github.io/)
+
+The Project Repo:
+[Peer Review Finder Repo](https://github.com/peer-review-finder/Source-Code)
+
+Official Project Site:
+[Peer Review Finder Site](https://peer-review-finder.xyz/#/)
