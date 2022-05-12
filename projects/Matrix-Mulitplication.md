@@ -9,7 +9,7 @@ date: 2021-11-04
 labels:
   - C
   - Matrix Mulitplication
-summary: Distributed-memory matrix multiplication allows for secluded address space, through exchanging messages, for each operation process. To accomplish this, we leverage matrix multiplication algorithms to support applications such as graphics, image processing, and genetic sequencing.  Multiplying one matrix to another matrix and storing the result in yet another matrix is the concept behind this area.  
+summary: Matrix multiplication algorithms can be applied in various ways and support applications such as graphics, image processing, and genetic sequencing.  
 ---
 
 
