@@ -10,7 +10,7 @@ date: 2020-03-07
 labels:
   - Minix OS
   - C
-summary: Using the Minix OS for familiarization in adding a ramdisk to the system. 
+summary: Familiarization in using the minimal operating system (OS) Minix.  This project required installation and editing of the source code to add a ramdisk to the system. 
 ---
 The idea of having an Operating System (OS) available to easily modify for the illustration of design principles is what MINIX embodies.  Minix is a “bare metal” Unix-like open source OS primarily used for student learning.  It is a text oriented operating system with a "minimal" kernal containing approximately 6,000 lines of code.  More info can be found here [Minix homepage](https://www.minix3.org/).    
 
