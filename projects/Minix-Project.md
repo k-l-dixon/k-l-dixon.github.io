@@ -21,7 +21,9 @@ During a course in the Theory of Operating Systems, my project involved successf
 
 >> -Increasing the limit of ram disks
 
+
 >> -Creating the new ram disk as a block device
+
 
 >> -Initializing the the OS on the newly created ram disk
 
@@ -29,7 +31,8 @@ Once Completed, I was able to successfully boot the OS and view the newly create
 
 ## Output Example
 
- <img class="ui centered medium image" src="../images/minix-output.png">
+ <img class="ui centered large image" src="../images/minix-output.png">
+ 
  
  
  ## Takeaway
