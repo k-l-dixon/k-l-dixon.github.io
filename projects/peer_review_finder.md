@@ -10,7 +10,7 @@ labels:
   - WebApp
   - Meteor
   - React
-summary: A web platform that offers to match pools resesarchers for ease of publication reviews.  
+summary: A web platform that offers to match pools of resesarchers for ease of publication reviews.  
 ---
 
 This peer review finder is a web application that offers the opportunity for researchers to easily upload and review the research publication of their peers.  Users are able to create their own account and upload their research papers, under a token system, to a database that will allow others to review thier work.  Within the interface, users are able to use search and filter features to find papers in specified areas.  Once a review has been made on a particular paper, the owner that uploaded that paper are then able to see the review comments made.  The account will also maintain the history of papers reviewed and commented on by the user.      
