@@ -18,8 +18,11 @@ The idea of having an Operating System (OS) available to easily modify for the i
 
 During a course in the Theory of Operating Systems, my project involved successfully adding a new ram disk device (aptly named “mydisk”) to this system.  The goal for this project was to become familiar with device management as well as disk mounting in any Unix-like OS.  As previously mentioned, MINIX is a “bare metal” OS that took quite a few steps to accomplish.  Using VirtualBox, I was first able to successfully install the OS, appropriately partition memory, and understand the file hieracrhy before editing the source code.  Several of the steps inluded:
 >> -Listing the new ram disk as an additional minor device
+
 >> -Increasing the limit of ram disks
+
 >> -Creating the new ram disk as a block device
+
 >> -Initializing the the OS on the newly created ram disk
 
 Once Completed, I was able to successfully boot the OS and view the newly created ram disk as below.
@@ -27,6 +30,7 @@ Once Completed, I was able to successfully boot the OS and view the newly create
 ## Output Example
 
  <img class="ui centered medium image" src="../images/minix-output.png">
+ 
  
  ## Takeaway
 
