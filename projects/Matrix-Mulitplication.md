@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/MatMul.png
+image: images/matmul.jpeg
 title: Distributed-Memory Matrix Mulitplication
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-04
