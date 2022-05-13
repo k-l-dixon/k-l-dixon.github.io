@@ -10,10 +10,10 @@ date: 2019-10-01
 labels:
   - Resilience
   - Training
-summary: 
+summary: Resilience training requirements that aim to improve organizational performance.  This is done using instructional venues in conjuction with practical exercises that facilitate building trust and cohesion within in group. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/MRT-logo.png">
+<img class="ui small right floated rounded image" src="../images/MRT-logo.png">
 
 
 
