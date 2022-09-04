@@ -6,7 +6,7 @@
     "email": "kolwin@hawaii.edu",
     "phone": "",
     "website": "https://k-l-dixon.github.io",
-    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
+    "summary": "I am an M.S. graduate in Computer Science from the Department of Information and Computer Sciences at the University of Hawaii at Manoa. Participating concurrently in the ROTC program, I was able to also commision into the Army at the same time and am currently serving as a Cyber Operations Officer",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Cyber Security",
-      "keywords": [
+      "keywords": [ "Network Security", "Security Operations"
       ]
     },
     {
@@ -70,10 +70,10 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2020-08-01",
-      "endDate": "Present",
+      "endDate": "2022-05-01",
       "gpa": "3.32",
       "courses": [
       ]
@@ -102,12 +102,13 @@
   "work": [
     {
       "company": "US Army",
-      "position": "Cadet",
+      "position": "Cyber Operations Officer",
       "website": "",
       "startDate": "2013-04-01",
       "endDate": "Present",
-      "summary": "Served in various capacities as a supervisor, mentor, trainer, evaluator/inspector, planner, electronic repairer.",
+      "summary": "Responsible for planning, coordination, and synchronization for operations pertaining to cyberspace capabilities. Additionally, I have experience serving in a variety of positions as a supervisor, mentor, trainer, evaluator/inspector, planner, electronic repairer.",
       "highlights": [
+        "Cyber Corp"
         "Ordnance Corp Affiliation",
         "Two Duty Stations with One Deployment",
         "Designated Master Resilence Trainer",
@@ -199,7 +200,7 @@
       "website": "",
       "position": "Assistant Basketball Coach",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2022",
       "summary": "Coaching basketball for 7-8 year old age group.",
       "highlights": []
     }
