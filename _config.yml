@@ -10,11 +10,10 @@ baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-techfolio-theme: lime.css
 bio-page-label: Resume
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
-theme-home: lime.css
+theme-home: theme-home-builtin-3.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
 theme-bio: theme-bio-builtin-1.html
@@ -25,6 +24,3 @@ rouge-theme: molokai.css
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
