@@ -13,7 +13,7 @@ baseurl: ""
 bio-page-label: Resume
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-builtin-3.html
+theme-home: theme-home-builtin-2.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
 theme-bio: theme-bio-builtin-1.html
@@ -23,4 +23,19 @@ rouge-theme: molokai.css
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
-include: [_data]
+kramdown:
+  hard_wrap: false
+  input: GFM
+  syntax_highlighter: rouge
+strict_front_matter: true
+mathjax: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+include:
+  - .nojekyll
+  - _data
+plugins:
+  - jekyll-gist
