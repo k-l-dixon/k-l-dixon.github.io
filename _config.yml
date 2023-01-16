@@ -1,27 +1,32 @@
-# Site settings
-
 # REQUIRED CHANGES
-# Edit next line, providing your own name.
-title: Molly Maluhia | Professional Portfolio
+# Edit next line to provide your own name.
+title: Katie Amberg-Johnson | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
+url: "https://kambergjohnson.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+baseurl: ""
 
 # OPTIONAL CHANGES
-# You might want to change the bio page label to something else, such as CV
-bio-page-label: Resume
-# You might want to change the theme associated with one or more sections of the site.
-# Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-builtin-1.html
-theme-projects: theme-projects-builtin-1.html
-theme-essays: theme-essays-builtin-1.html
-theme-bio: theme-bio-builtin-1.html
+## Specify the theme using any of the css files in css/techfolio-theme
+techfolio-theme: default.css
+## Specify the formatting for triple backquote code sections.
+rouge-theme: github.css
 
-# Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-rouge-theme: igorpro
-
-# YOU NORMALLY NEVER CHANGE THE FOLLOWING
+# DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
 markdown: kramdown
-include: [_data]
-
+kramdown:
+  hard_wrap: false
+  input: GFM
+  syntax_highlighter: rouge
+strict_front_matter: true
+mathjax: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+include:
+  - .nojekyll
+  - _data
+plugins:
+  - jekyll-gist
