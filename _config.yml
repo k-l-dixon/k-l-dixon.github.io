@@ -10,6 +10,7 @@ baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
+techfolio-theme: lime.css
 bio-page-label: Resume
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
@@ -23,19 +24,5 @@ rouge-theme: molokai.css
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
-kramdown:
-  hard_wrap: false
-  input: GFM
-  syntax_highlighter: rouge
-strict_front_matter: true
-mathjax: true
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-include:
-  - .nojekyll
-  - _data
-plugins:
-  - jekyll-gist
+include: [_data]
+ 
