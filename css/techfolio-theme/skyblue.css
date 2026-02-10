@@ -37,7 +37,7 @@ a {
   text-decoration: none;
 }
 
-.rounded-circle {
+.ui.rounded.image {
   border-color: var(--tf-blue1);
   border-style: solid;
   border-width: 1px;
