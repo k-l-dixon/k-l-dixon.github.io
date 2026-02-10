@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kolwin Dixon",
-    "label": "M.S. Graduate | CCNA | COMPTIA Sec+ | CISSP | PMP",
+    "label": "M.S. Graduate | CCNA | COMPTIA Security Analyst Professional | CISSP | PMP",
     "picture": "https://k-l-dixon.github.io/images/Dixon2.jpg",
     "email": "kolwin@hawaii.edu",
     "phone": "",
@@ -38,11 +38,6 @@
       "keywords": [ "Network Security", "Security Operations"
       ]
     },
-    {
-      "name": "Fitness",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
